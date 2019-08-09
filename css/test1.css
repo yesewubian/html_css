@@ -1,0 +1,42 @@
+.head {
+    background-color: #1c1404;
+    height: 50px;
+    color: white;
+}
+
+.head ul {
+    margin-top: 0px;
+}
+
+.head ul li {
+    display: inline;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.body {
+    background-color: #f9f9f9;
+    height: 100%;
+}
+
+.body .content {
+    background-color: white;
+    width: 90%;
+    boder: 1px solid #F00;
+    margin: 0 auto;
+    color: #454545;
+}
+
+.bottom {
+    background-color: #1c1404;
+    height: 100px;
+    color: white;
+}
+
+.bottom div {
+    float: left;
+}
+
+.bottom div ul {
+
+}
